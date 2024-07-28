@@ -3,9 +3,9 @@
 
 
 ## Full Stack Developer (in making).
-**Fact:** Rolling Stones gathers no mass.
-**Open to:** Work/Collaborate on Open Source Projects
-**Mentor:** I have been a mentor for a couple of organizations.
+- **Fact:** Rolling Stones gathers no mass.
+- **Open to:** Work/Collaborate on Open Source Projects
+- **Mentor:** I have been a mentor for a couple of organizations.
 
 ### Technologies I work with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
