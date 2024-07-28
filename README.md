@@ -3,7 +3,6 @@
 
 
 ## Full Stack Developer (in making).
-- **Fact:** Rolling Stones gathers no mass.
 - **Open to:** Work/Collaborate on Open Source Projects
 - **Mentor:** I have been a mentor for a couple of organizations.
 
